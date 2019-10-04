@@ -3,7 +3,7 @@
 
 Refractored and deployed version of my last app in this series : a todo list style react.js app, using post it notes interface. Full crud functionality, create + update + delete.
 
-Try it yourself: https://react-postit-notes.herokuapp.com/
+Try it yourself: https://react-postit-notes.herokuapp.com/ 
 
 **Concepts Explored:**
 
